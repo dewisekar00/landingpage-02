@@ -61,6 +61,9 @@
 /* layar desktop */
 
 @media screen and (min-width: 768px) {
+  .navbar-brand{
+    margin-left: 100px;
+  }
 
   header {
     padding-top: 56px;
@@ -106,6 +109,9 @@
     order: 2;
 
     padding-right: 120px;
+  }
+  .service-btn {
+    padding-top: 40px;
   }
   .card-container {
     width: 500px;
